@@ -4,6 +4,8 @@ public class Submission {
     public final String filename;
 
     public Submission(String roll, String code, String filename) {
-        this.roll = roll; this.code = code; this.filename = filename;
+        this.roll = roll;
+        this.code = code;
+        this.filename = filename;
     }
 }
