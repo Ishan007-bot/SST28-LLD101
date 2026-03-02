@@ -4,7 +4,8 @@ import java.io.*;
 
 /**
  * Serializes and deserializes the registry.
- * Starter will typically produce a NEW instance. After fix, it must return the same singleton.
+ * Starter will typically produce a NEW instance. After fix, it must return the
+ * same singleton.
  */
 public class SerializationCheck {
 
