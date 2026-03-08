@@ -7,7 +7,8 @@ package com.example.reports;
  * - No access control
  *
  * TODO (student):
- * - Convert this into the RealSubject behind a Proxy, or replace with RealReport.
+ * - Convert this into the RealSubject behind a Proxy, or replace with
+ * RealReport.
  */
 public class ReportFile {
 
@@ -32,7 +33,11 @@ public class ReportFile {
 
     private String loadFromDisk() {
         System.out.println("[disk] loading report " + reportId + " ...");
-        try { Thread.sleep(120); } catch (InterruptedException e) { Thread.currentThread().interrupt(); }
+        try {
+            Thread.sleep(120);
+        } catch (InterruptedException e) {
+            Thread.currentThread().interrupt();
+        }
         return "Internal report body for " + title;
     }
 }

@@ -9,7 +9,11 @@ public class User {
         this.role = role;
     }
 
-    public String getName() { return name; }
+    public String getName() {
+        return name;
+    }
 
-    public String getRole() { return role; }
+    public String getRole() {
+        return role;
+    }
 }
