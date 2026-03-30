@@ -26,7 +26,7 @@ A small Java low-level design for cinema-style show booking with per-screen sche
 
 ## Class diagram
 
-![alt text](<Ticket Booking System.drawio.png>)
+![alt text](<Ticket Booking System.png>)
 
 ## Usage
 
