@@ -31,7 +31,7 @@ Core domain objects that model requests, dispatch assignment, and elevator movem
 
 ## Class diagram
 
-![alt text](Elevator System.png)
+![alt text](<Elevator System.png>)
 
 ## Usage
 
