@@ -29,7 +29,7 @@ Core pieces model the client queue, the guarded API, and two classic limiter beh
 
 ## Class diagram
 
-![alt text](<Rate Limiter.drawio.png>)
+![alt text](<Rate Limiter.png>)
 
 ## Usage
 
