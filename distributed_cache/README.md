@@ -30,7 +30,7 @@ Core pieces that model distribution, storage, and back-end access.
 
 ## Class diagram
 
-![alt text](<Distributed Cache.drawio.png>)
+![alt text](<Distributed Cache.png>)
 
 ## Usage
 
